@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hey, I'm codezSam7 👋
 
-<!--
-**codezSam7/codezSam7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 17-year-old full-stack developer based in Nigeria, passionate about building web apps and learning new tech.  
 
-Here are some ideas to get you started:
+- Check out my projects and repositories here on GitHub.  
+- Explore my experiments with PHP, JavaScript, MySQL, Laravel, Livewire, and FilamentPHP.  
+- Stay connected on GitHub or reach me directly at +234-704-2972.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Current Endeavors
+
+I'm currently focused on:
+
+- Building full-stack web applications and small projects.  
+- Diving deeper into **Laravel**, **Livewire**, and **FilamentPHP**.  
+- Optimizing my workflow and learning new development tools every day.  
+
+
+## ✨ Hobbies
+
+- Reading about AI.  
+- Watching anime (Attack on Titan is a favorite).  
+- Experimenting with codes.  
+
+---
+
+## 📫 Contact Me
+
+- Quick chats: DM me on GitHub, Instagram or X  
+- Professional inquiries: Email me: "samueloluwaferanmi37@gmail.com"
