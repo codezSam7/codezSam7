@@ -1,6 +1,6 @@
 # Hey, I'm codezSam7 👋
 
-I'm a 17-year-old full-stack developer based in Nigeria, passionate about building web apps and learning new tech.  
+I'm a 17-year-old full-stack developer based in Nigeria, preparing to study at Covenant University. I'm passionate about building web apps and learning new tech.  
 
 - Check out my projects and repositories here on GitHub.  
 - Explore my experiments with PHP, JavaScript, MySQL, Laravel, Livewire, and FilamentPHP.  
