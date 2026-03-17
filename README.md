@@ -4,7 +4,7 @@ I'm a 17-year-old full-stack developer based in Nigeria, passionate about buildi
 
 - Check out my projects and repositories here on GitHub.  
 - Explore my experiments with PHP, JavaScript, MySQL, Laravel, Livewire, and FilamentPHP.  
-- Stay connected on GitHub or reach me directly at +234-704-2972.  
+- Stay connected on GitHub or reach me directly at +234-704-297-2024.  
 
 
 ## Current Endeavors
@@ -26,5 +26,5 @@ I'm currently focused on:
 
 ## 📫 Contact Me
 
-- Quick chats: DM me on GitHub, Instagram or X  
+- Quick chats: DM me on [Instagram](https://www.instagram.com/@codezSam7) or [X](https://x.com/codezSam7)  
 - Professional inquiries: Email me: "samueloluwaferanmi37@gmail.com"
