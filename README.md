@@ -26,5 +26,5 @@ I'm currently focused on:
 
 ## 📫 Contact Me
 
-- Quick chats: DM me on [Instagram](https://www.instagram.com/@codezSam7/) or [X](https://x.com/codezSam7)  
+- Quick chats: DM me on [Instagram](https://www.instagram.com/codezSam7) or [X](https://x.com/codezSam7)  
 - Professional inquiries: Email me: "samueloluwaferanmi37@gmail.com"
